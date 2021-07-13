@@ -33,7 +33,9 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0
     float: right;
   }
 }
-
+.nav-item.open {
+  float: right;
+}
 
 
 .pagination {
