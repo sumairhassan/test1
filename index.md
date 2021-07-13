@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Psychiatry
+title: AIMS
 ---
-
-AIMS
 
 Reveal disease mechanisms and develop tools for outcome prediction in severe mental illness
 
