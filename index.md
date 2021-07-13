@@ -4,12 +4,13 @@ title: Psychiatry
 ---
 
 AIMS
+
 Reveal disease mechanisms and develop tools for outcome prediction in severe mental illness
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+* Disclose the genetic architecture of psychotic disorders and determine their functional impact
+* Identify brain imaging phenotypes linking genes and clinical phenotypes in a longitudinal setting
+* Use genetic, environmental and clinical factors to predict disease progress and outcome
+* Translate pathophysiological discoveries into clinical and pharmacological interventions
 
 ## Setup Guide
 
