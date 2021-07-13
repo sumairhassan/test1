@@ -22,7 +22,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0
 
 // Navs
 
-.nav-tabs {
+.nav-tabs right {
   .nav-link.active,
   .nav-link.active:focus,
   .nav-link.active:hover,
@@ -33,9 +33,6 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0
   }
 }
 
-.navbar-nav {
-  float: right;
-}
 
 
 .pagination {
